@@ -1,7 +1,4 @@
-# automate-tweets
-Automate Tweets using python and seleniun. 
-
-# Project Title
+# Automate Tweets 
 
 Simple tweets automation with Python and Selenium. 
 No API Required. 
